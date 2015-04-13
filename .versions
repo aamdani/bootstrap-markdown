@@ -1,4 +1,6 @@
-brwn:bootstrap-markdown@1.0.0
+brwn:bootstrap-markdown@1.0.1
+brwn:marked@1.0.0
+brwn:to-markdown@1.0.0
 jquery@1.11.3_2
 meteor@1.1.6
 twbs:bootstrap@3.3.4
