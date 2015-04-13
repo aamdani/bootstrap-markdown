@@ -2,7 +2,7 @@ Package.describe({
   name: 'brwn:bootstrap-markdown',
   version: '1.0.0',
   // Brief, one-line summary of the package.
-  summary: 'bootstrap-markdown wrapper using the official bootstrap package dependency and appropriate markdown-to and marked dependencies.',
+  summary: 'bootstrap-markdown wrapper using the official bootstrap package dependency.',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/aamdani/bootstrap-markdown',
   // By default, Meteor will default to using README.md for documentation.
